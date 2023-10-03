@@ -5,7 +5,7 @@ description         : >-
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : SydianAndrewChen/sydianandrewchen.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -24,23 +24,20 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Yian Chen
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : ihttps://github.com/SydianAndrewChen/sydianandrewchen.github.io/blob/main/images/id.jpg?raw=true
 # dribbble          : your_username
   email             : yianchen@seas.upenn.edu
-  facebook          : your_username
-  github            : your_username
+  github            : SydianAndrewChen
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : yian-chen-33a31a1a8
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : AndrewSydChen
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
