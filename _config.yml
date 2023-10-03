@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Yian Chen
-  image             : ihttps://github.com/SydianAndrewChen/sydianandrewchen.github.io/blob/main/images/id.jpg?raw=true
+  image             : https://github.com/SydianAndrewChen/sydianandrewchen.github.io/blob/main/images/id.jpg?raw=true
 # dribbble          : your_username
   email             : yianchen@seas.upenn.edu
   github            : SydianAndrewChen
