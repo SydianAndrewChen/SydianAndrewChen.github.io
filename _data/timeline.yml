@@ -1,21 +1,23 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Master, University of Pennsylvania, US
+  from: 2023.9
   to: present
+  description: Majoring in Computer Graphics and Game Technology, UPenn.
+
+- title: Media Group Intern, Tencent, CN
+  from: 2021.12
+  to: 2022.3
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: test
-  from: 20233
-  description: test again
+- title: Gameplay Engineer Intern, Netease, CN
+  from: 2021.6
+  to: 2021.11
+  description: As a gameplay engineer intern. I actually had finished jobs not limited within gameplay
+
+- title: Undergraduate, The Chinese University of Hong Kong, Shenzhen
+  from: 2018.9
+  to: 2023.9
+  description: Undergraduate study at CUHK(SZ). I majored Computer Science and Engineering.
