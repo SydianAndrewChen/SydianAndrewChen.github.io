@@ -1,9 +1,8 @@
 ---
 name: Stylized Facial Shadow Workflow
-tools: [stylized shading, technical artist]
+tools: [stylized shading, technical artist, tools]
 image: https://github.com/SydianAndrewChen/sydianandrewchen.github.io/blob/main/images/shadowmaskeditor_result.png?raw=true
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+description: A tool that I developed to be used for stylized facial shadow textures.
 ---
 
 <video width="1080" height="960" controls>
