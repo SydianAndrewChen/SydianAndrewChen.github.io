@@ -8,6 +8,7 @@ CUDA Path Tracer
 ================
 [pbrt]: https://pbrt.org/
 
+- [Github Repo](https://github.com/SydianAndrewChen/Project3-CUDA-Path-Tracer)
 * Tested on: Windows 10, AMD Ryzen 5800 HS with Radeon Graphics CPU @ 3.20GHz 16GB, NVIDIA GeForce RTX3060 Laptop 8GB
 
 ### Implemeted Feature 
